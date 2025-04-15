@@ -1,7 +1,7 @@
-ADD_LIBRARY( SampleAngleAndConsumerPlugin SHARED SampleAngleAndConsumerPlugin.cpp)
+ADD_LIBRARY( SampleAngleAndEmgAndConsumerPlugin SHARED SampleAngleAndEmgAndConsumerPlugin.cpp)
 
 
-TARGET_LINK_LIBRARIES( SampleAngleAndConsumerPlugin
+TARGET_LINK_LIBRARIES( SampleAngleAndEmgAndConsumerPlugin
 	FileIO
 	XMLIKIDInterpreter
 	XMLExecutionInterpreter

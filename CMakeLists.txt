@@ -1,5 +1,5 @@
 CMAKE_MINIMUM_REQUIRED (VERSION 3.10) 
-PROJECT(PluginTwincat)
+PROJECT(SampleAngleAndEmgAndConsumerPlugin)
 
 INCLUDE_DIRECTORIES(
 	include
